@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👑 | OfficialBot OctopusGang","👥 |OctopusGang sta guradano {user}"];
 
 
 let currentIndex = 0;
