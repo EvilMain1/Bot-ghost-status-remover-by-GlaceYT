@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👑 | OfficialBot ChocolateMC","👨‍💻| Developed By EvilMain","🍫| chocolatemc.xyz"];
 
 
 let currentIndex = 0;
