@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👑 | OfficialBot SnakeMC","👨‍💻| Developed By EvilMain","🐍| snakemc.it"];
 
 
 let currentIndex = 0;
