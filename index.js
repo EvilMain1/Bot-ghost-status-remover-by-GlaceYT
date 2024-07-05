@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 | OfficialBot OctopusGang","👨‍💻| Developed By EvilMain"];
+const statusMessages = ["👑 | OfficialBot ChocolateMC,"🍫| chocolatemc.xyz"];
 
 
 let currentIndex = 0;
